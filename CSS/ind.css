@@ -1,0 +1,34 @@
+body { 
+     background-image: url("../img/55f9add3dd08952e3a8b474d.png "); 
+    background-repeat: no-repeat ;
+    background-size:cover;
+    margin:unset;
+}
+.div1{
+    background-size:cover ;
+background-color: rgba( 0 , 0 , 0 , 0.6);
+background-repeat: repeat-x;
+background-repeat: repeat-y;
+margin: unset;
+padding: unset;
+
+}
+div {
+text-align: center ;
+
+padding-top: 200px;
+padding-bottom:200px ;
+}
+h1 {
+    color: white  ;
+}
+
+ h3 {
+     color :white;
+ }
+ button{
+    
+    border-radius: 10px;
+ }
+ 
+ 
